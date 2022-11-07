@@ -1,0 +1,8 @@
+<suite name="NAGPAssignment" parallel="none">
+
+    <test name="SelendroidTest">
+        <classes>
+            <class name="com.nagp.Runner.TestRunnerSmoke" />
+        </classes>
+    </test>
+</suite>
