@@ -1,19 +1,9 @@
-[INFO ] 2022-09-22 12:30:25.375 [main] ServerManager - starting appium server
-[INFO ] 2022-09-22 12:30:27.860 [main] ServerManager - Appium server started
-[INFO ] 2022-09-22 12:30:27.888 [main] DriverManager - initializing Appium driver
-[INFO ] 2022-09-22 12:30:27.907 [main] PropertyManager - loading config properties
-[INFO ] 2022-09-22 12:30:27.909 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 12:30:27.912 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
-[INFO ] 2022-09-22 12:30:36.023 [main] DriverManager - Driver is initialized
-[INFO ] 2022-09-22 12:30:36.718 [main] BasePage - Click Continue
-[INFO ] 2022-09-22 12:30:38.183 [main] BasePage - ok popup clicked
-[INFO ] 2022-09-22 12:30:39.126 [main] HomePageSelendroidStep - Navigate to HomeScreen
 [INFO ] 2022-09-22 12:35:01.819 [main] ServerManager - starting appium server
 [INFO ] 2022-09-22 12:35:04.568 [main] ServerManager - Appium server started
 [INFO ] 2022-09-22 12:35:04.603 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 12:35:04.623 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 12:35:04.624 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 12:35:04.628 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 12:35:04.628 [main] CapabilitiesManager - appUrl is src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 12:35:14.465 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 12:35:15.247 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 12:35:16.713 [main] BasePage - ok popup clicked
@@ -25,7 +15,7 @@
 [INFO ] 2022-09-22 12:37:12.703 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 12:37:12.721 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 12:37:12.723 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 12:37:12.726 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 12:37:12.726 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 12:37:20.236 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 12:37:21.101 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 12:37:22.648 [main] BasePage - ok popup clicked
@@ -35,7 +25,7 @@
 [INFO ] 2022-09-22 12:39:07.613 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 12:39:07.630 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 12:39:07.632 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 12:39:07.635 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 12:39:07.635 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 12:39:15.876 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 12:39:16.573 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 12:39:17.869 [main] BasePage - ok popup clicked
@@ -46,7 +36,7 @@
 [INFO ] 2022-09-22 12:39:50.039 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 12:39:50.056 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 12:39:50.057 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 12:39:50.060 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 12:39:50.060 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 12:39:57.666 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 12:39:58.410 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 12:39:59.936 [main] BasePage - ok popup clicked
@@ -57,7 +47,7 @@
 [INFO ] 2022-09-22 12:53:31.674 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 12:53:31.697 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 12:53:31.698 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 12:53:31.703 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 12:53:31.703 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 12:53:42.477 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 12:53:43.188 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 12:53:44.652 [main] BasePage - ok popup clicked
@@ -69,7 +59,7 @@
 [INFO ] 2022-09-22 13:13:28.883 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:13:28.906 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 13:13:28.907 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:13:28.911 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:13:28.911 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:13:39.549 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:13:40.231 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:13:41.741 [main] BasePage - ok popup clicked
@@ -80,7 +70,7 @@
 [INFO ] 2022-09-22 13:13:46.178 [main] ServerManager - Appium server started
 [INFO ] 2022-09-22 13:13:46.179 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:13:46.179 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:13:46.179 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:13:46.179 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:13:53.377 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:13:54.136 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:13:55.388 [main] BasePage - ok popup clicked
@@ -92,7 +82,7 @@
 [INFO ] 2022-09-22 13:18:43.358 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:18:43.378 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 13:18:43.379 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:18:43.382 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:18:43.382 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:18:50.903 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:18:51.675 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:18:52.958 [main] BasePage - ok popup clicked
@@ -101,7 +91,7 @@
 [INFO ] 2022-09-22 13:18:56.232 [main] ServerManager - Appium server started
 [INFO ] 2022-09-22 13:18:56.233 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:18:56.233 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:18:56.233 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:18:56.233 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:19:03.157 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:19:04.016 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:19:05.215 [main] BasePage - ok popup clicked
@@ -112,7 +102,7 @@
 [INFO ] 2022-09-22 13:19:09.579 [main] ServerManager - Appium server started
 [INFO ] 2022-09-22 13:19:09.579 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:19:09.579 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:19:09.579 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:19:09.579 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:19:15.323 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:19:16.151 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:19:17.372 [main] BasePage - ok popup clicked
@@ -123,7 +113,7 @@
 [INFO ] 2022-09-22 13:20:56.447 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:20:56.475 [main] PropertyManager - loading config properties
 [INFO ] 2022-09-22 13:20:56.476 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:20:56.479 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:20:56.479 [main] CapabilitiesManager - appUrl is src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:21:05.101 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:21:05.745 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:21:07.185 [main] BasePage - ok popup clicked
@@ -132,7 +122,7 @@
 [INFO ] 2022-09-22 13:21:10.495 [main] ServerManager - Appium server started
 [INFO ] 2022-09-22 13:21:10.495 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:21:10.496 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:21:10.496 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:21:10.496 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:21:16.245 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:21:17.094 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:21:18.343 [main] BasePage - ok popup clicked
@@ -143,7 +133,7 @@
 [INFO ] 2022-09-22 13:21:22.807 [main] ServerManager - Appium server started
 [INFO ] 2022-09-22 13:21:22.808 [main] DriverManager - initializing Appium driver
 [INFO ] 2022-09-22 13:21:22.808 [main] CapabilitiesManager - getting capabilities
-[INFO ] 2022-09-22 13:21:22.809 [main] CapabilitiesManager - appUrl is/Users/varsha/Desktop/NAGP/NAGPAppium/src/test/resources/apkFiles/selendroid-test-app.apk
+[INFO ] 2022-09-22 13:21:22.809 [main] CapabilitiesManager - appUrl is /src/test/resources/apkFiles/selendroid-test-app.apk
 [INFO ] 2022-09-22 13:21:28.637 [main] DriverManager - Driver is initialized
 [INFO ] 2022-09-22 13:21:29.728 [main] BasePage - Click Continue
 [INFO ] 2022-09-22 13:21:31.400 [main] BasePage - ok popup clicked
