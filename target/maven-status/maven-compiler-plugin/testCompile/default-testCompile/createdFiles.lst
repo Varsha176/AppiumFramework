@@ -1,8 +1,0 @@
-com/nagp/Runner/TestRunnerSmoke.class
-com/nagp/pages/RegisterUserPage.class
-com/nagp/pages/HomePageSelendroid.class
-com/nagp/stepdefination/Hooks.class
-com/nagp/stepdefination/RegisterUser.class
-com/nagp/stepdefination/HomePageSelendroidStep.class
-com/nagp/Runner/TestRunnerSanity.class
-com/nagp/pages/BasePage.class
